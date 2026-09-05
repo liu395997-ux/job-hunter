@@ -1,0 +1,15 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.9
+scikit-learn>=1.5
+streamlit>=1.57
+seaborn>=0.13
+requests>=2.32
+beautifulsoup4>=4.12
+jieba>=0.42
+wordcloud>=1.9
+networkx>=3.3
+apscheduler>=3.10
+pytest>=8
+scipy>=1.13
+joblib>=1.4

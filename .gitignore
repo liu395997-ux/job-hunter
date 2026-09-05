@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+data/raw/
+data/*.db
+data/cleaned/*.csv
+.requirements/
+.streamlit/secrets.toml
+.mplconfig/
+.ppt_build/
+.docx_build/
