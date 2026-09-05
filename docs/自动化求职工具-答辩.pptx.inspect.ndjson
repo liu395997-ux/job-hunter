@@ -1,0 +1,267 @@
+{"kind":"deck","id":"pr/h4z1h6","name":"Deck"}
+{"kind":"layout","layoutId":"19ed7075-5a07-4184-80d2-a3f2bd1a93c1","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"4482807f-04f9-4659-bee2-20dccdb2de83","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/98kt1s","slide":1,"title":"短学期课程项目 · 期末答辩","textShapes":6}
+{"kind":"textbox","id":"sh/wn2hgre9","slide":1,"name":"cover-eyebrow","text":"短学期课程项目 · 期末答辩","textPreview":"短学期课程项目 · 期末答辩","textChars":14,"textLines":1,"bbox":[48,52,1232,668]}
+{"kind":"textbox","id":"sh/vmtgnmd4","slide":1,"name":"cover-title","text":"自动化求职工具","textPreview":"自动化求职工具","textChars":7,"textLines":1,"bbox":[48,180,1232,540]}
+{"kind":"textbox","id":"sh/a1kzehwj","slide":1,"name":"cover-subtitle","text":"招聘数据采集 · 清洗分析 · 个性化推荐 · 自动报告","textPreview":"招聘数据采集 · 清洗分析 · 个性化推荐 · 自动报告","textChars":28,"textLines":1,"bbox":[48,330,1232,390]}
+{"kind":"textbox","id":"sh/90bylcvy","slide":1,"name":"cover-meta","text":"小组：自动化求职小组（5 人）\n课程：Python 数据分析与可视化 · 2026-09","textPreview":"小组：自动化求职小组（5 人） | 课程：Python 数据分析与可视化 · 2026-09","textChars":44,"textLines":2,"bbox":[48,460,1232,260]}
+{"kind":"shape","id":"sh/8z2hc7ed","slide":1,"name":"cover-image-backing","bbox":[656,52,24,24]}
+{"kind":"shape","id":"sh/nytgj2ds","slide":1,"name":"rule-48-640","bbox":[48,640,24,24]}
+{"kind":"textbox","id":"sh/mxkzaxw7","slide":1,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/twfixgv2","slide":1,"name":"footer-page","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"image","id":"im/p4bmdkbm","slide":1,"name":"","geometry":"roundRect","alt":"职位技能词云（项目真实产出）","bbox":[688,84,520,480]}
+{"kind":"notes","id":"nt/98kt1s","slide":1,"text":"开场：一句话说明我们做了一个面向学生的自动化求职工具，从职位采集、清洗、分析到个性化推荐和自动报告，形成闭环。右侧词云来自项目真实数据。"}
+{"kind":"slide","id":"sl/k6qojp","slide":2,"title":"为求职者解决“信息过载、选择困难”","textShapes":15}
+{"kind":"textbox","id":"sh/7elojeh0","slide":2,"name":"slide-title","text":"为求职者解决“信息过载、选择困难”","textPreview":"为求职者解决“信息过载、选择困难”","textChars":17,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/sfepcji5","slide":2,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/tgn6lozq","slide":2,"name":"pain-point-head","text":"痛点","textPreview":"痛点","textChars":2,"textLines":1,"bbox":[48,150,1232,570]}
+{"kind":"textbox","id":"sh/ipc76903","slide":2,"name":"pain-1","text":"01  招聘平台每天发布海量职位，人工筛选费时费力","textPreview":"01  招聘平台每天发布海量职位，人工筛选费时费力","textChars":25,"textLines":1,"bbox":[48,210,1232,510]}
+{"kind":"textbox","id":"sh/jqlofu1o","slide":2,"name":"pain-2","text":"02  薪资、技能、公司信息分散，难以横向比较","textPreview":"02  薪资、技能、公司信息分散，难以横向比较","textChars":23,"textLines":1,"bbox":[48,268,1232,452]}
+{"kind":"textbox","id":"sh/krup8zi9","slide":2,"name":"pain-3","text":"03  求职者缺少与自身画像匹配的个性化参考","textPreview":"03  求职者缺少与自身画像匹配的个性化参考","textChars":22,"textLines":1,"bbox":[48,326,1232,394]}
+{"kind":"textbox","id":"sh/5s36h4ju","slide":2,"name":"goal-head","text":"目标","textPreview":"目标","textChars":2,"textLines":1,"bbox":[48,420,1232,300]}
+{"kind":"textbox","id":"sh/2lw7it0n","slide":2,"name":"goal","text":"采集职位数据 → 清洗入库 → 薪资/技能/企业分析 → 简历画像推荐 → 自动生成求职报告，全部可视化。","textPreview":"采集职位数据 → 清洗入库 → 薪资/技能/企业分析 → 简历画像推荐 → 自动生成求职报告，全部可视化。","textChars":53,"textLines":1,"bbox":[48,480,1232,240]}
+{"kind":"shape","id":"sh/3mp8ryhs","slide":2,"name":"course-panel","bbox":[660,150,24,24]}
+{"kind":"textbox","id":"sh/fyx0ja1o","slide":2,"name":"course-head","text":"课程要求 → 我们的方案","textPreview":"课程要求 → 我们的方案","textChars":12,"textLines":1,"bbox":[688,186,592,534]}
+{"kind":"textbox","id":"sh/uxojq503","slide":2,"name":"course-1","text":"Web 项目          Streamlit 多页面应用","textPreview":"Web 项目          Streamlit 多页面应用","textChars":31,"textLines":1,"bbox":[688,258,592,462]}
+{"kind":"textbox","id":"sh/hkfilkju","slide":2,"name":"course-2","text":"≥3 个算法          推荐 / 预测 / 聚类 / 图谱","textPreview":"≥3 个算法          推荐 / 预测 / 聚类 / 图谱","textChars":33,"textLines":1,"bbox":[688,318,592,402]}
+{"kind":"textbox","id":"sh/gz61sfi9","slide":2,"name":"course-3","text":"爬取 + 清洗        可配置爬虫 + 清洗流水线","textPreview":"爬取 + 清洗        可配置爬虫 + 清洗流水线","textChars":28,"textLines":1,"bbox":[688,378,592,342]}
+{"kind":"textbox","id":"sh/3mh0nu10","slide":2,"name":"course-4","text":"可视化             图表 + 交互看板","textPreview":"可视化             图表 + 交互看板","textChars":25,"textLines":1,"bbox":[688,438,592,282]}
+{"kind":"textbox","id":"sh/2l8jup0f","slide":2,"name":"course-5","text":"AI 工具使用        tdd / skill 工作流记录","textPreview":"AI 工具使用        tdd / skill 工作流记录","textChars":32,"textLines":1,"bbox":[688,498,592,222]}
+{"kind":"textbox","id":"sh/pozipkj6","slide":2,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/4nq1wfil","slide":2,"name":"footer-page","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/k6qojp","slide":2,"text":"说明课程要求（Web 项目、3 个以上算法、爬取清洗、可视化、AI 工具使用）如何落到本项目上。"}
+{"kind":"slide","id":"sl/1ouxbl","slide":3,"title":"五层架构：从采集到自动报告","textShapes":18}
+{"kind":"textbox","id":"sh/nq1o7eh4","slide":3,"name":"slide-title","text":"五层架构：从采集到自动报告","textPreview":"五层架构：从采集到自动报告","textChars":13,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/orapgjip","slide":3,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/9sj69oza","slide":3,"name":"arch-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,160,1232,560]}
+{"kind":"textbox","id":"sh/ats7i90v","slide":3,"name":"arch-name-0","text":"采集层","textPreview":"采集层","textChars":3,"textLines":1,"bbox":[150,160,1130,560]}
+{"kind":"textbox","id":"sh/vulobehg","slide":3,"name":"arch-desc-0","text":"可配置爬虫：关键词 × 城市 × 页码，BFS/DFS 调度，限速 / UA 池 / 重试","textPreview":"可配置爬虫：关键词 × 城市 × 页码，BFS/DFS 调度，限速 / UA 池 / 重试","textChars":45,"textLines":1,"bbox":[340,166,940,554]}
+{"kind":"shape","id":"sh/wvupkjil","slide":3,"name":"rule-48-238","bbox":[48,238,24,24]}
+{"kind":"textbox","id":"sh/xw36doz6","slide":3,"name":"arch-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,256,1232,464]}
+{"kind":"textbox","id":"sh/qx8n6p0b","slide":3,"name":"arch-name-1","text":"数据层","textPreview":"数据层","textChars":3,"textLines":1,"bbox":[150,256,1130,464]}
+{"kind":"textbox","id":"sh/ryhozu1w","slide":3,"name":"arch-desc-1","text":"薪资解析、去重、标准化 → SQLite / CSV，质量报告","textPreview":"薪资解析、去重、标准化 → SQLite / CSV，质量报告","textChars":31,"textLines":1,"bbox":[340,262,940,458]}
+{"kind":"shape","id":"sh/ni9cbyps","slide":3,"name":"rule-48-334","bbox":[48,334,24,24]}
+{"kind":"textbox","id":"sh/2h0b2do7","slide":3,"name":"arch-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,352,1232,368]}
+{"kind":"textbox","id":"sh/p4bud87y","slide":3,"name":"arch-name-2","text":"算法层","textPreview":"算法层","textChars":3,"textLines":1,"bbox":[150,352,1130,368]}
+{"kind":"textbox","id":"sh/oj2t436d","slide":3,"name":"arch-desc-2","text":"内容推荐 · 薪资预测 · 岗位聚类 · 技能图谱","textPreview":"内容推荐 · 薪资预测 · 岗位聚类 · 技能图谱","textChars":25,"textLines":1,"bbox":[340,358,940,362]}
+{"kind":"shape","id":"sh/fe9c7ypg","slide":3,"name":"rule-48-430","bbox":[48,430,24,24]}
+{"kind":"textbox","id":"sh/ed0bytob","slide":3,"name":"arch-num-3","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,448,1232,272]}
+{"kind":"textbox","id":"sh/1gru987m","slide":3,"name":"arch-name-3","text":"展示层","textPreview":"展示层","textChars":3,"textLines":1,"bbox":[150,448,1130,272]}
+{"kind":"textbox","id":"sh/0fit0361","slide":3,"name":"arch-desc-3","text":"Streamlit 多页面看板：总览 / 薪资 / 技能 / 匹配","textPreview":"Streamlit 多页面看板：总览 / 薪资 / 技能 / 匹配","textChars":33,"textLines":1,"bbox":[340,454,940,266]}
+{"kind":"shape","id":"sh/rapc3epk","slide":3,"name":"rule-48-526","bbox":[48,526,24,24]}
+{"kind":"textbox","id":"sh/q9gbutoz","slide":3,"name":"arch-num-4","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[48,544,1232,176]}
+{"kind":"textbox","id":"sh/ulgvm9sr","slide":3,"name":"arch-name-4","text":"自动化层","textPreview":"自动化层","textChars":4,"textLines":1,"bbox":[150,544,1130,176]}
+{"kind":"textbox","id":"sh/vmpcfe9c","slide":3,"name":"arch-desc-4","text":"定时爬取、自动日报、匹配提醒、投递材料包","textPreview":"定时爬取、自动日报、匹配提醒、投递材料包","textChars":20,"textLines":1,"bbox":[340,550,940,170]}
+{"kind":"textbox","id":"sh/w7ydojax","slide":3,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/h87uhori","slide":3,"name":"footer-page","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/1ouxbl","slide":3,"text":"按数据流顺序介绍五层架构：采集、数据、算法、展示、自动化。强调每层职责单一、可独立替换。"}
+{"kind":"slide","id":"sl/45acba","slide":4,"title":"真实采集踩坑 + 清洗流水线","textShapes":14}
+{"kind":"textbox","id":"sh/gjy1gny1","slide":4,"name":"slide-title","text":"真实采集踩坑 + 清洗流水线","textPreview":"真实采集踩坑 + 清洗流水线","textChars":14,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/fipk7ihg","slide":4,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/ehgjexgv","slide":4,"name":"left-head","text":"采集：可配置、可降级","textPreview":"采集：可配置、可降级","textChars":10,"textLines":1,"bbox":[48,150,1232,570]}
+{"kind":"textbox","id":"sh/tg725sza","slide":4,"name":"crawl-1","text":"智联 fe-api 搜索接口：关键词 / 城市 / 页码可配置","textPreview":"智联 fe-api 搜索接口：关键词 / 城市 / 页码可配置","textChars":31,"textLines":1,"bbox":[48,220,1232,500]}
+{"kind":"textbox","id":"sh/sfy1cny5","slide":4,"name":"crawl-2","text":"自研 BFS/DFS 调度 + 限速 + UA 池 + 指数退避重试","textPreview":"自研 BFS/DFS 调度 + 限速 + UA 池 + 指数退避重试","textChars":34,"textLines":1,"bbox":[48,278,1232,442]}
+{"kind":"textbox","id":"sh/repk3ihk","slide":4,"name":"crawl-3","text":"实测：接口存活但返回空结果（反爬），自动降级样例数据","textPreview":"实测：接口存活但返回空结果（反爬），自动降级样例数据","textChars":26,"textLines":1,"bbox":[48,336,1232,384]}
+{"kind":"textbox","id":"sh/6dgjadgz","slide":4,"name":"crawl-4","text":"命令行：run_crawler.py，失败非零退出并提示回退","textPreview":"命令行：run_crawler.py，失败非零退出并提示回退","textChars":30,"textLines":1,"bbox":[48,416,1232,304]}
+{"kind":"shape","id":"sh/dcb2hcfu","slide":4,"name":"clean-panel","bbox":[660,150,24,24]}
+{"kind":"textbox","id":"sh/cb2lo7y9","slide":4,"name":"right-head","text":"清洗：把文本变成数字","textPreview":"清洗：把文本变成数字","textChars":10,"textLines":1,"bbox":[688,186,592,534]}
+{"kind":"textbox","id":"sh/6hgvidsf","slide":4,"name":"clean-1","text":"薪资解析：15-25K·14薪 → 15 / 25 / 20 K","textPreview":"薪资解析：15-25K·14薪 → 15 / 25 / 20 K","textChars":32,"textLines":1,"bbox":[688,258,592,462]}
+{"kind":"textbox","id":"sh/72pwri90","slide":4,"name":"clean-2","text":"按 职位 + 公司 + 城市 + 薪资 去重","textPreview":"按 职位 + 公司 + 城市 + 薪资 去重","textChars":22,"textLines":1,"bbox":[688,318,592,402]}
+{"kind":"textbox","id":"sh/83yxk3al","slide":4,"name":"clean-3","text":"学历 / 经验 / 公司规模标准化","textPreview":"学历 / 经验 / 公司规模标准化","textChars":17,"textLines":1,"bbox":[688,378,592,342]}
+{"kind":"textbox","id":"sh/t47et8r6","slide":4,"name":"clean-4","text":"输出质量报告 JSON，缺失率可审计","textPreview":"输出质量报告 JSON，缺失率可审计","textChars":18,"textLines":1,"bbox":[688,438,592,282]}
+{"kind":"textbox","id":"sh/ydgvetsj","slide":4,"name":"clean-5","text":"技能标签用 jieba + 技能词典提取","textPreview":"技能标签用 jieba + 技能词典提取","textChars":20,"textLines":1,"bbox":[688,498,592,222]}
+{"kind":"textbox","id":"sh/jepwny94","slide":4,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/kfydg3ap","slide":4,"name":"footer-page","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/45acba","slide":4,"text":"重点讲踩坑：智联接口 TCP 可达、HTTP 200，但返回空结果集（numFound=999999，results=[]），尝试 UA/Referer/Cookie 均无效，判定为 IP 风控或签名参数。我们把它记录成文档，并设计自动降级，演示链路不受影响。\n[Sources] 实测过程见 docs/爬虫调研与反爬笔记.md"}
+{"kind":"slide","id":"sl/6jjst1","slide":5,"title":"数据字典与质量报告","textShapes":5}
+{"kind":"textbox","id":"sh/e94ny58b","slide":5,"name":"slide-title","text":"数据字典与质量报告","textPreview":"数据字典与质量报告","textChars":9,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"textbox","id":"sh/1cv6907m","slide":5,"name":"overview-line","text":"320 条职位 · 8 个城市 · 平均月薪 18.22K","textPreview":"320 条职位 · 8 个城市 · 平均月薪 18.22K","textChars":29,"textLines":1,"bbox":[48,122,1232,598]}
+{"kind":"textbox","id":"sh/nexobaps","slide":5,"name":"quality-caption","text":"清洗前后行数、去重数、缺失率由 cleaner 流水线自动统计，写入 data/cleaned/quality_report.json","textPreview":"清洗前后行数、去重数、缺失率由 cleaner 流水线自动统计，写入 data/cleaned/quality_report.json","textChars":67,"textLines":1,"bbox":[48,630,1232,90]}
+{"kind":"textbox","id":"sh/2don2587","slide":5,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/pgf6dk7y","slide":5,"name":"footer-page","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"table","id":"tb/10fedorm","slide":5,"name":"dict-table","rows":7,"cols":3,"preview":"字段 | 类型 | 说明","bbox":[48,200,1232,520]}
+{"kind":"notes","id":"nt/6jjst1","slide":5,"text":"数据字段对齐课程‘数据管理’要求：CSV/SQLite 双向存取，质量报告可审计。"}
+{"kind":"slide","id":"sl/ks2lg2","slide":6,"title":"四个算法：推荐 · 预测 · 聚类 · 图谱","textShapes":12}
+{"kind":"textbox","id":"sh/5gzqxs7a","slide":6,"name":"slide-title","text":"四个算法：推荐 · 预测 · 聚类 · 图谱","textPreview":"四个算法：推荐 · 预测 · 聚类 · 图谱","textChars":22,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/id8rmd8j","slide":6,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"shape","id":"sh/jeh8vip4","slide":6,"name":"chart-panel","bbox":[48,150,24,24]}
+{"kind":"textbox","id":"sh/s3q9sn61","slide":6,"name":"chart-caption","text":"职位技能出现次数 Top 10（样例数据）","textPreview":"职位技能出现次数 Top 10（样例数据）","textChars":21,"textLines":1,"bbox":[48,110,1232,610]}
+{"kind":"textbox","id":"sh/t4ja1s76","slide":6,"name":"algo-1","text":"内容推荐","textPreview":"内容推荐","textChars":4,"textLines":1,"bbox":[640,160,640,560]}
+{"kind":"textbox","id":"sh/6h8rqxov","slide":6,"name":"algo-1-d","text":"TF-IDF + 余弦相似度，硬过滤 + Top-N 匹配分","textPreview":"TF-IDF + 余弦相似度，硬过滤 + Top-N 匹配分","textChars":30,"textLines":1,"bbox":[640,206,640,514]}
+{"kind":"textbox","id":"sh/7ih8z2pg","slide":6,"name":"algo-2","text":"薪资预测","textPreview":"薪资预测","textChars":4,"textLines":1,"bbox":[640,280,640,440]}
+{"kind":"textbox","id":"sh/g7a9w76x","slide":6,"name":"algo-2-d","text":"随机森林回归，输出 MAE / R² / 特征重要性","textPreview":"随机森林回归，输出 MAE / R² / 特征重要性","textChars":26,"textLines":1,"bbox":[640,326,640,394]}
+{"kind":"textbox","id":"sh/18ja5c7i","slide":6,"name":"algo-3","text":"岗位聚类","textPreview":"岗位聚类","textChars":4,"textLines":1,"bbox":[640,400,640,320]}
+{"kind":"textbox","id":"sh/dcj294fu","slide":6,"name":"algo-3-d","text":"KMeans + 轮廓系数，输出每簇岗位画像","textPreview":"KMeans + 轮廓系数，输出每簇岗位画像","textChars":22,"textLines":1,"bbox":[640,446,640,274]}
+{"kind":"textbox","id":"sh/cba1gze9","slide":6,"name":"algo-4","text":"技能图谱","textPreview":"技能图谱","textChars":4,"textLines":1,"bbox":[640,520,640,200]}
+{"kind":"textbox","id":"sh/ba1k7ux4","slide":6,"name":"algo-4-d","text":"词频词云 + 技能共现网络","textPreview":"词频词云 + 技能共现网络","textChars":13,"textLines":1,"bbox":[640,566,640,154]}
+{"kind":"textbox","id":"sh/qpsjepwj","slide":6,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/lg32d4f6","slide":6,"name":"footer-page","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"chart","id":"ch/kf2pw7up","slide":6,"name":"","chartType":"bar","bbox":[76,190,464,420]}
+{"kind":"notes","id":"nt/ks2lg2","slide":6,"text":"四个算法对应课程‘至少三个不同类型算法’要求，每个算法都有评估指标与可视化页面。"}
+{"kind":"slide","id":"sl/0774ic","slide":7,"title":"个性化推荐：简历画像 × 职位文本","textShapes":9}
+{"kind":"textbox","id":"sh/87qlwj21","slide":7,"name":"slide-title","text":"个性化推荐：简历画像 × 职位文本","textPreview":"个性化推荐：简历画像 × 职位文本","textChars":17,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/76h43e1w","slide":7,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/m583u9kb","slide":7,"name":"rec-head","text":"原理","textPreview":"原理","textChars":2,"textLines":1,"bbox":[48,150,1232,570]}
+{"kind":"textbox","id":"sh/l4zm14jq","slide":7,"name":"rec-1","text":"硬过滤：城市 / 学历 / 期望薪资先缩小候选集","textPreview":"硬过滤：城市 / 学历 / 期望薪资先缩小候选集","textChars":24,"textLines":1,"bbox":[48,216,1232,504]}
+{"kind":"textbox","id":"sh/k3qlsz25","slide":7,"name":"rec-2","text":"TF-IDF 向量化（jieba 分词，中英混合）","textPreview":"TF-IDF 向量化（jieba 分词，中英混合）","textChars":25,"textLines":1,"bbox":[48,274,1232,446]}
+{"kind":"textbox","id":"sh/z2h4zu1k","slide":7,"name":"rec-3","text":"余弦相似度打分，输出 Top-N 与匹配度","textPreview":"余弦相似度打分，输出 Top-N 与匹配度","textChars":21,"textLines":1,"bbox":[48,332,1232,388]}
+{"kind":"textbox","id":"sh/y183qpkz","slide":7,"name":"rec-4","text":"匹配度 = 画像与岗位文本的语义重合度","textPreview":"匹配度 = 画像与岗位文本的语义重合度","textChars":19,"textLines":1,"bbox":[48,390,1232,330]}
+{"kind":"textbox","id":"sh/cf6lof2t","slide":7,"name":"rec-caption","text":"输入：python、数据分析、sql ｜ 上海 ｜ 本科 ｜ 期望 ≤30K","textPreview":"输入：python、数据分析、sql ｜ 上海 ｜ 本科 ｜ 期望 ≤30K","textChars":38,"textLines":1,"bbox":[48,470,1232,250]}
+{"kind":"textbox","id":"sh/id8fu543","slide":7,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/jehw3al8","slide":7,"name":"footer-page","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"table","id":"tb/4fa9cz2d","slide":7,"name":"rec-table","rows":6,"cols":5,"preview":"职位 | 公司 | 城市 | 月薪(K) | 匹配度","bbox":[620,180,660,540]}
+{"kind":"notes","id":"nt/0774ic","slide":7,"text":"现场可以演示‘我的匹配’页：修改技能或城市，推荐列表和匹配度实时变化。"}
+{"kind":"slide","id":"sl/tsyfht","slide":8,"title":"薪资预测：随机森林回归，特征可解释","textShapes":13}
+{"kind":"textbox","id":"sh/sfytkjqt","slide":8,"name":"slide-title","text":"薪资预测：随机森林回归，特征可解释","textPreview":"薪资预测：随机森林回归，特征可解释","textChars":17,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/repcre98","slide":8,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"shape","id":"sh/6dgbit83","slide":8,"name":"chart-panel","bbox":[48,150,24,24]}
+{"kind":"textbox","id":"sh/5c7apori","slide":8,"name":"chart-caption","text":"特征重要性（验证集 MAE=1.74K，R²=0.507）","textPreview":"特征重要性（验证集 MAE=1.74K，R²=0.507）","textChars":29,"textLines":1,"bbox":[48,110,1232,610]}
+{"kind":"textbox","id":"sh/4betwjqx","slide":8,"name":"metric-1","text":"MAE","textPreview":"MAE","textChars":3,"textLines":1,"bbox":[640,160,640,560]}
+{"kind":"textbox","id":"sh/ja5sne9c","slide":8,"name":"metric-1-v","text":"1.74K/月","textPreview":"1.74K/月","textChars":7,"textLines":1,"bbox":[640,206,640,514]}
+{"kind":"textbox","id":"sh/i9wbu9sr","slide":8,"name":"metric-2","text":"决定系数 R²","textPreview":"决定系数 R²","textChars":7,"textLines":1,"bbox":[900,160,380,560]}
+{"kind":"textbox","id":"sh/p8ru18rm","slide":8,"name":"metric-2-v","text":"0.507","textPreview":"0.507","textChars":5,"textLines":1,"bbox":[900,206,380,514]}
+{"kind":"textbox","id":"sh/o7its3q1","slide":8,"name":"metric-3","text":"训练 / 验证样本","textPreview":"训练 / 验证样本","textChars":9,"textLines":1,"bbox":[640,300,640,420]}
+{"kind":"textbox","id":"sh/qd03uxg3","slide":8,"name":"metric-3-v","text":"224 / 57","textPreview":"224 / 57","textChars":8,"textLines":1,"bbox":[640,346,640,374]}
+{"kind":"textbox","id":"sh/be9432ho","slide":8,"name":"design-1","text":"Pipeline + ColumnTransformer 防数据泄漏","textPreview":"Pipeline + ColumnTransformer 防数据泄漏","textChars":34,"textLines":1,"bbox":[640,440,640,280]}
+{"kind":"textbox","id":"sh/cf2lw7y9","slide":8,"name":"design-2","text":"固定 random_state，结果可复现","textPreview":"固定 random_state，结果可复现","textChars":21,"textLines":1,"bbox":[640,496,640,224]}
+{"kind":"textbox","id":"sh/dgbm5czu","slide":8,"name":"design-3","text":"面议岗位不参与训练，避免脏标签","textPreview":"面议岗位不参与训练，避免脏标签","textChars":15,"textLines":1,"bbox":[640,552,640,168]}
+{"kind":"textbox","id":"sh/2p03qxg7","slide":8,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/3q94z2hs","slide":8,"name":"footer-page","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"chart","id":"ch/knu9wrud","slide":8,"name":"","chartType":"bar","bbox":[76,200,484,410]}
+{"kind":"notes","id":"nt/tsyfht","slide":8,"text":"强调结果可解释：经验、城市、学历是主要影响因素；模型指标在验证集上计算。"}
+{"kind":"slide","id":"sl/fnjq8w","slide":9,"title":"聚类画像 + 技能图谱：看见需求结构","textShapes":10}
+{"kind":"textbox","id":"sh/u9knmhcv","slide":9,"name":"slide-title","text":"聚类画像 + 技能图谱：看见需求结构","textPreview":"聚类画像 + 技能图谱：看见需求结构","textChars":18,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/hcvmxwvm","slide":9,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"shape","id":"sh/gbm5oru1","slide":9,"name":"wordcloud-panel","bbox":[48,150,24,24]}
+{"kind":"textbox","id":"sh/76t4rmdk","slide":9,"name":"wc-caption","text":"技能词云（真实数据）","textPreview":"技能词云（真实数据）","textChars":10,"textLines":1,"bbox":[48,110,1232,610]}
+{"kind":"textbox","id":"sh/65k3ihwz","slide":9,"name":"cluster-1","text":"KMeans 聚类","textPreview":"KMeans 聚类","textChars":9,"textLines":1,"bbox":[660,170,620,550]}
+{"kind":"textbox","id":"sh/t8bmtcva","slide":9,"name":"cluster-1-d","text":"4 个簇，轮廓系数 0.23，每簇输出岗位数 / 平均薪资 / Top 技能","textPreview":"4 个簇，轮廓系数 0.23，每簇输出岗位数 / 平均薪资 / Top 技能","textChars":38,"textLines":1,"bbox":[660,216,620,504]}
+{"kind":"textbox","id":"sh/s72lk7e5","slide":9,"name":"graph-1","text":"技能共现网络","textPreview":"技能共现网络","textChars":6,"textLines":1,"bbox":[660,320,620,400]}
+{"kind":"textbox","id":"sh/ji94n2d8","slide":9,"name":"graph-1-d","text":"统计同一岗位内的技能组合，展示热门技能搭配（如 python × sql）","textPreview":"统计同一岗位内的技能组合，展示热门技能搭配（如 python × sql）","textChars":37,"textLines":1,"bbox":[660,366,620,354]}
+{"kind":"textbox","id":"sh/ih03exwn","slide":9,"name":"insight","text":"对求职者的意义","textPreview":"对求职者的意义","textChars":7,"textLines":1,"bbox":[660,470,620,250]}
+{"kind":"textbox","id":"sh/4rqds7y1","slide":9,"name":"insight-d","text":"知道热门技能与搭配，规划学习路径与简历关键词","textPreview":"知道热门技能与搭配，规划学习路径与简历关键词","textChars":22,"textLines":1,"bbox":[660,516,620,204]}
+{"kind":"textbox","id":"sh/pszelszm","slide":9,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/2povqxgv","slide":9,"name":"footer-page","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/fnjq8w","slide":9,"text":"聚类用轮廓系数选 k；技能图谱同时给出词云与共现网络两种视角。"}
+{"kind":"slide","id":"sl/jo9q2c","slide":10,"title":"Streamlit 看板：算法结果人人可点","textShapes":13}
+{"kind":"textbox","id":"sh/8bit4rqh","slide":10,"name":"slide-title","text":"Streamlit 看板：算法结果人人可点","textPreview":"Streamlit 看板：算法结果人人可点","textChars":21,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/7a9sbmpw","slide":10,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"shape","id":"sh/690r2h8r","slide":10,"name":"boxplot-panel","bbox":[48,150,24,24]}
+{"kind":"textbox","id":"sh/l8ra9c76","slide":10,"name":"box-caption","text":"分城市薪资箱线图（真实数据）","textPreview":"分城市薪资箱线图（真实数据）","textChars":14,"textLines":1,"bbox":[48,110,1232,610]}
+{"kind":"textbox","id":"sh/k7i90rql","slide":10,"name":"page-1","text":"市场总览","textPreview":"市场总览","textChars":4,"textLines":1,"bbox":[660,170,620,550]}
+{"kind":"textbox","id":"sh/j69s7mp0","slide":10,"name":"page-1-d","text":"KPI 指标 + 城市 / 学历 / 岗位分布","textPreview":"KPI 指标 + 城市 / 学历 / 岗位分布","textChars":23,"textLines":1,"bbox":[660,214,620,506]}
+{"kind":"textbox","id":"sh/y50ryh8f","slide":10,"name":"page-2","text":"薪资分析","textPreview":"薪资分析","textChars":4,"textLines":1,"bbox":[660,280,620,440]}
+{"kind":"textbox","id":"sh/xkra5c7u","slide":10,"name":"page-2-d","text":"箱线图 + 薪资预测器（交互输入）","textPreview":"箱线图 + 薪资预测器（交互输入）","textChars":17,"textLines":1,"bbox":[660,324,620,396]}
+{"kind":"textbox","id":"sh/wjy9w7q9","slide":10,"name":"page-3","text":"技能图谱","textPreview":"技能图谱","textChars":4,"textLines":1,"bbox":[660,390,620,330]}
+{"kind":"textbox","id":"sh/mdkz2h4v","slide":10,"name":"page-3-d","text":"词云 + 共现网络 + 数据表","textPreview":"词云 + 共现网络 + 数据表","textChars":15,"textLines":1,"bbox":[660,434,620,286]}
+{"kind":"textbox","id":"sh/net0v2lg","slide":10,"name":"page-4","text":"我的匹配","textPreview":"我的匹配","textChars":4,"textLines":1,"bbox":[660,500,620,220]}
+{"kind":"textbox","id":"sh/oz2h47m1","slide":10,"name":"page-4-d","text":"求职画像表单 → 推荐卡片（可点链接）","textPreview":"求职画像表单 → 推荐卡片（可点链接）","textChars":19,"textLines":1,"bbox":[660,544,620,176]}
+{"kind":"textbox","id":"sh/90bixc3m","slide":10,"name":"tech-caption","text":"技术点：st.navigation 多页面、缓存加载、原生图表、表单批处理","textPreview":"技术点：st.navigation 多页面、缓存加载、原生图表、表单批处理","textChars":37,"textLines":1,"bbox":[48,670,1232,50]}
+{"kind":"textbox","id":"sh/e90zyx4z","slide":10,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/za9gr2l4","slide":10,"name":"footer-page","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"image","id":"im/n6hkjy9w","slide":10,"name":"","geometry":"roundRect","alt":"分城市薪资箱线图（项目真实产出）","bbox":[76,180,504,430]}
+{"kind":"notes","id":"nt/jo9q2c","slide":10,"text":"现场演示：streamlit run streamlit_app.py，依次走四个页面，5 分钟内可讲完。"}
+{"kind":"slide","id":"sl/xcumdt","slide":11,"title":"自动化闭环：从“看数据”到“自动报告”","textShapes":16}
+{"kind":"textbox","id":"sh/zadsjyd4","slide":11,"name":"slide-title","text":"自动化闭环：从“看数据”到“自动报告”","textPreview":"自动化闭环：从“看数据”到“自动报告”","textChars":19,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/0bmts3up","slide":11,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/1cval8va","slide":11,"name":"auto-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,170,1232,550]}
+{"kind":"textbox","id":"sh/qlkbmtwn","slide":11,"name":"auto-name-0","text":"定时增量爬取","textPreview":"定时增量爬取","textChars":6,"textLines":1,"bbox":[150,170,1130,550]}
+{"kind":"textbox","id":"sh/rmtsfyd8","slide":11,"name":"auto-desc-0","text":"APScheduler 按配置频率抓取新增职位","textPreview":"APScheduler 按配置频率抓取新增职位","textChars":23,"textLines":1,"bbox":[480,178,800,542]}
+{"kind":"shape","id":"sh/c7mtojet","slide":11,"name":"rule-48-252","bbox":[48,252,24,24]}
+{"kind":"textbox","id":"sh/d8vahove","slide":11,"name":"auto-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,278,1232,442]}
+{"kind":"textbox","id":"sh/2hkri9wr","slide":11,"name":"auto-name-1","text":"自动清洗入库","textPreview":"自动清洗入库","textChars":6,"textLines":1,"bbox":[150,278,1130,442]}
+{"kind":"textbox","id":"sh/3itsbedc","slide":11,"name":"auto-desc-1","text":"新数据进入同一清洗流水线与 SQLite","textPreview":"新数据进入同一清洗流水线与 SQLite","textChars":20,"textLines":1,"bbox":[480,286,800,434]}
+{"kind":"shape","id":"sh/zqhkjahs","slide":11,"name":"rule-48-360","bbox":[48,360,24,24]}
+{"kind":"textbox","id":"sh/y58ja507","slide":11,"name":"auto-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,386,1232,334]}
+{"kind":"textbox","id":"sh/lsz2lkzi","slide":11,"name":"auto-name-2","text":"每日匹配报告","textPreview":"每日匹配报告","textChars":6,"textLines":1,"bbox":[150,386,1130,334]}
+{"kind":"textbox","id":"sh/0rq1cfix","slide":11,"name":"auto-desc-2","text":"按用户画像计算匹配度，输出 Top 岗位与理由","textPreview":"按用户画像计算匹配度，输出 Top 岗位与理由","textChars":23,"textLines":1,"bbox":[480,394,800,326]}
+{"kind":"shape","id":"sh/nuhknaho","slide":11,"name":"rule-48-468","bbox":[48,468,24,24]}
+{"kind":"textbox","id":"sh/mt8jep03","slide":11,"name":"auto-num-3","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,494,1232,226]}
+{"kind":"textbox","id":"sh/9wj2pkzu","slide":11,"name":"auto-name-3","text":"投递材料包","textPreview":"投递材料包","textChars":5,"textLines":1,"bbox":[150,494,1130,226]}
+{"kind":"textbox","id":"sh/8vqlgfi9","slide":11,"name":"auto-desc-3","text":"自动生成匹配亮点摘要，供人工投递","textPreview":"自动生成匹配亮点摘要，供人工投递","textChars":16,"textLines":1,"bbox":[480,502,800,218]}
+{"kind":"textbox","id":"sh/3yxkbqhk","slide":11,"name":"auto-boundary","text":"合规边界：只自动准备材料，不代替用户投递简历","textPreview":"合规边界：只自动准备材料，不代替用户投递简历","textChars":22,"textLines":1,"bbox":[48,620,1232,100]}
+{"kind":"textbox","id":"sh/2xoj2l0z","slide":11,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/6tcnqtkn","slide":11,"name":"footer-page","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/xcumdt","slide":11,"text":"自动化是题目的创新点；当前以样例数据跑通全链路，APScheduler 计划接入。"}
+{"kind":"slide","id":"sl/oh3flq","slide":12,"title":"五个人，一条流水线","textShapes":4}
+{"kind":"textbox","id":"sh/t8rytkzy","slide":12,"name":"slide-title","text":"五个人，一条流水线","textPreview":"五个人，一条流水线","textChars":9,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"textbox","id":"sh/769grahs","slide":12,"name":"team-caption","text":"每位成员负责模块可独立演示、可随机抽题；模块间通过 CSV/SQLite 接口解耦","textPreview":"每位成员负责模块可独立演示、可随机抽题；模块间通过 CSV/SQLite 接口解耦","textChars":41,"textLines":1,"bbox":[48,630,1232,90]}
+{"kind":"textbox","id":"sh/gb2h4fy9","slide":12,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/hwbyxkzu","slide":12,"name":"footer-page","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"table","id":"tb/fitkni1g","slide":12,"name":"team-table","rows":6,"cols":3,"preview":"角色 | 负责模块 | 答辩展示点","bbox":[48,170,1232,550]}
+{"kind":"notes","id":"nt/oh3flq","slide":12,"text":"分工与课程‘团队分工与任务’要求一致；答辩时每位成员讲自己负责的部分。"}
+{"kind":"slide","id":"sl/83cccm","slide":13,"title":"六天开发：里程碑驱动的迭代","textShapes":17}
+{"kind":"textbox","id":"sh/vypgv6h0","slide":13,"name":"slide-title","text":"六天开发：里程碑驱动的迭代","textPreview":"六天开发：里程碑驱动的迭代","textChars":13,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/wzyh4bil","slide":13,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/h07yxgz6","slide":13,"name":"ms-num-0","text":"M1","textPreview":"M1","textChars":2,"textLines":1,"bbox":[48,150,1232,570]}
+{"kind":"textbox","id":"sh/m9wzy10j","slide":13,"name":"ms-name-0","text":"概念验证","textPreview":"概念验证","textChars":4,"textLines":1,"bbox":[170,150,1110,570]}
+{"kind":"textbox","id":"sh/7a5gr6h4","slide":13,"name":"ms-desc-0","text":"Day1–2：立项通过，爬通数据 + 算法雏形 + 可运行原型","textPreview":"Day1–2：立项通过，爬通数据 + 算法雏形 + 可运行原型","textChars":31,"textLines":1,"bbox":[400,156,880,564]}
+{"kind":"shape","id":"sh/8beh0rip","slide":13,"name":"rule-48-230","bbox":[48,230,24,24]}
+{"kind":"textbox","id":"sh/9cnytwza","slide":13,"name":"ms-num-1","text":"M2","textPreview":"M2","textChars":2,"textLines":1,"bbox":[48,254,1232,466]}
+{"kind":"textbox","id":"sh/y5cfuh0n","slide":13,"name":"ms-name-1","text":"中期检查","textPreview":"中期检查","textChars":4,"textLines":1,"bbox":[170,254,1110,466]}
+{"kind":"textbox","id":"sh/z6lgnmh8","slide":13,"name":"ms-desc-1","text":"Day4：全链路可演示，每人提交中期报告","textPreview":"Day4：全链路可演示，每人提交中期报告","textChars":20,"textLines":1,"bbox":[400,260,880,460]}
+{"kind":"shape","id":"sh/r6x0fy18","slide":13,"name":"rule-48-334","bbox":[48,334,24,24]}
+{"kind":"textbox","id":"sh/q54jmd0n","slide":13,"name":"ms-num-2","text":"M3","textPreview":"M3","textChars":2,"textLines":1,"bbox":[48,358,1232,362]}
+{"kind":"textbox","id":"sh/d8fih8je","slide":13,"name":"ms-name-2","text":"项目验收","textPreview":"项目验收","textChars":4,"textLines":1,"bbox":[170,358,1110,362]}
+{"kind":"textbox","id":"sh/s761o3it","slide":13,"name":"ms-desc-2","text":"Day6：V1.0 验收，现场答辩 + 演示视频","textPreview":"Day6：V1.0 验收，现场答辩 + 演示视频","textChars":24,"textLines":1,"bbox":[400,364,880,356]}
+{"kind":"textbox","id":"sh/faxkji1k","slide":13,"name":"ai-head","text":"AI 工程实践","textPreview":"AI 工程实践","textChars":7,"textLines":1,"bbox":[48,480,1232,240]}
+{"kind":"textbox","id":"sh/e9ojqd0z","slide":13,"name":"ai-1","text":"tdd：每个任务先写 REQUIREMENTS.md，测试先行","textPreview":"tdd：每个任务先写 REQUIREMENTS.md，测试先行","textChars":31,"textLines":1,"bbox":[48,534,1232,186]}
+{"kind":"textbox","id":"sh/1cf2lsja","slide":13,"name":"ai-2","text":"44 个 pytest 用例 + ruff 质量门禁","textPreview":"44 个 pytest 用例 + ruff 质量门禁","textChars":26,"textLines":1,"bbox":[640,534,640,186]}
+{"kind":"textbox","id":"sh/0b61snip","slide":13,"name":"ai-3","text":"skill 工作流：streamlit / 数据分析 / 爬虫规范","textPreview":"skill 工作流：streamlit / 数据分析 / 爬虫规范","textChars":33,"textLines":1,"bbox":[48,586,1232,134]}
+{"kind":"textbox","id":"sh/vet07e10","slide":13,"name":"ai-4","text":"提示词与使用记录沉淀到 docs/ai_usage.md","textPreview":"提示词与使用记录沉淀到 docs/ai_usage.md","textChars":28,"textLines":1,"bbox":[640,586,640,134]}
+{"kind":"textbox","id":"sh/udkjet0f","slide":13,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/y9s3m1k3","slide":13,"name":"footer-page","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/83cccm","slide":13,"text":"展示过程管理：里程碑对应课程检查点；AI 使用记录本身就是课程考核项。"}
+{"kind":"slide","id":"sl/vnc2r4","slide":14,"title":"成果可运行，过程可复盘","textShapes":16}
+{"kind":"textbox","id":"sh/j29ormlo","slide":14,"name":"slide-title","text":"成果可运行，过程可复盘","textPreview":"成果可运行，过程可复盘","textChars":11,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/k3i5kr29","slide":14,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"textbox","id":"sh/54r6tw3e","slide":14,"name":"kpi-1","text":"44","textPreview":"44","textChars":2,"textLines":1,"bbox":[80,220,1200,500]}
+{"kind":"textbox","id":"sh/ax0nehkr","slide":14,"name":"kpi-1-l","text":"测试用例全部通过","textPreview":"测试用例全部通过","textChars":8,"textLines":1,"bbox":[80,316,1200,404]}
+{"kind":"textbox","id":"sh/vy9onmlc","slide":14,"name":"kpi-2","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[340,220,940,500]}
+{"kind":"textbox","id":"sh/wzi5g72x","slide":14,"name":"kpi-2-l","text":"个类型算法","textPreview":"个类型算法","textChars":5,"textLines":1,"bbox":[340,316,940,404]}
+{"kind":"textbox","id":"sh/x0r6pc3i","slide":14,"name":"kpi-3","text":"320","textPreview":"320","textChars":3,"textLines":1,"bbox":[560,220,720,500]}
+{"kind":"textbox","id":"sh/utknq1kb","slide":14,"name":"kpi-3-l","text":"条结构化职位数据","textPreview":"条结构化职位数据","textChars":8,"textLines":1,"bbox":[560,316,720,404]}
+{"kind":"textbox","id":"sh/futoz61w","slide":14,"name":"kpi-4","text":"0.507","textPreview":"0.507","textChars":5,"textLines":1,"bbox":[820,220,460,500]}
+{"kind":"textbox","id":"sh/vy1wza58","slide":14,"name":"kpi-4-l","text":"薪资预测 R²","textPreview":"薪资预测 R²","textChars":7,"textLines":1,"bbox":[820,316,460,404]}
+{"kind":"shape","id":"sh/uxsf65o3","slide":14,"name":"next-panel","bbox":[48,410,24,24]}
+{"kind":"textbox","id":"sh/h0je1kne","slide":14,"name":"next-head","text":"下一步","textPreview":"下一步","textChars":3,"textLines":1,"bbox":[80,440,1200,280]}
+{"kind":"textbox","id":"sh/gzax8f6t","slide":14,"name":"next-1","text":"突破真实站点反爬，接入真实招聘数据","textPreview":"突破真实站点反爬，接入真实招聘数据","textChars":17,"textLines":1,"bbox":[80,500,1200,220]}
+{"kind":"textbox","id":"sh/321g3u5k","slide":14,"name":"next-2","text":"自动日报上线 + 局域网部署可远程访问","textPreview":"自动日报上线 + 局域网部署可远程访问","textChars":19,"textLines":1,"bbox":[660,500,620,220]}
+{"kind":"textbox","id":"sh/i1sfap4z","slide":14,"name":"next-3","text":"沉淀期末报告与 AI 使用记录","textPreview":"沉淀期末报告与 AI 使用记录","textChars":15,"textLines":1,"bbox":[80,548,1200,172]}
+{"kind":"textbox","id":"sh/543y54nq","slide":14,"name":"next-4","text":"请各位老师提问指正","textPreview":"请各位老师提问指正","textChars":9,"textLines":1,"bbox":[660,548,620,172]}
+{"kind":"textbox","id":"sh/43uxczm5","slide":14,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/rqlg7u5g","slide":14,"name":"footer-page","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/vnc2r4","slide":14,"text":"用可运行的成果收尾：测试、算法、数据、指标都是真实的；展望聚焦真实数据接入与自动日报。"}
+{"kind":"slide","id":"sl/vbahni","slide":15,"title":"演示视频：每位成员 2 分钟","textShapes":24}
+{"kind":"textbox","id":"sh/e9kre5c7","slide":15,"name":"slide-title","text":"演示视频：每位成员 2 分钟","textPreview":"演示视频：每位成员 2 分钟","textChars":14,"textLines":1,"bbox":[48,34,1232,686]}
+{"kind":"shape","id":"sh/1wbq90vi","slide":15,"name":"rule-48-108","bbox":[48,108,24,24]}
+{"kind":"shape","id":"sh/0v29gvud","slide":15,"name":"video-panel-0","bbox":[48,160,24,24]}
+{"kind":"textbox","id":"sh/r6t83qdg","slide":15,"name":"video-icon-0","text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[72,188,1208,532]}
+{"kind":"textbox","id":"sh/q507alcv","slide":15,"name":"video-member-0","text":"成员 A","textPreview":"成员 A","textChars":4,"textLines":1,"bbox":[148,192,1132,528]}
+{"kind":"textbox","id":"sh/d8bq50vm","slide":15,"name":"video-topic-0","text":"数据采集与清洗","textPreview":"数据采集与清洗","textChars":7,"textLines":1,"bbox":[72,270,1208,450]}
+{"kind":"textbox","id":"sh/s729cvu1","slide":15,"name":"video-note-0","text":"视频占位（mp4 · 800×600）","textPreview":"视频占位（mp4 · 800×600）","textChars":19,"textLines":1,"bbox":[72,320,1208,400]}
+{"kind":"shape","id":"sh/3298zqdk","slide":15,"name":"video-panel-1","bbox":[456,160,24,24]}
+{"kind":"textbox","id":"sh/i1076lcz","slide":15,"name":"video-icon-1","text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[480,188,800,532]}
+{"kind":"textbox","id":"sh/0ji9onm9","slide":15,"name":"video-member-1","text":"成员 B","textPreview":"成员 B","textChars":4,"textLines":1,"bbox":[556,192,724,528]}
+{"kind":"textbox","id":"sh/1kraxs3u","slide":15,"name":"video-topic-1","text":"数据存储与质量","textPreview":"数据存储与质量","textChars":7,"textLines":1,"bbox":[480,270,800,450]}
+{"kind":"textbox","id":"sh/exgrmd43","slide":15,"name":"video-note-1","text":"视频占位（mp4 · 800×600）","textPreview":"视频占位（mp4 · 800×600）","textChars":19,"textLines":1,"bbox":[480,320,800,400]}
+{"kind":"shape","id":"sh/fi9svilo","slide":15,"name":"video-panel-2","bbox":[864,160,24,24]}
+{"kind":"textbox","id":"sh/svy9k3mx","slide":15,"name":"video-icon-2","text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[888,188,392,532]}
+{"kind":"textbox","id":"sh/dw7at83i","slide":15,"name":"video-member-2","text":"成员 C","textPreview":"成员 C","textChars":4,"textLines":1,"bbox":[964,192,316,528]}
+{"kind":"textbox","id":"sh/qtgrit47","slide":15,"name":"video-topic-2","text":"推荐与薪资预测","textPreview":"推荐与薪资预测","textChars":7,"textLines":1,"bbox":[888,270,392,450]}
+{"kind":"textbox","id":"sh/rupsrylc","slide":15,"name":"video-note-2","text":"视频占位（mp4 · 800×600）","textPreview":"视频占位（mp4 · 800×600）","textChars":19,"textLines":1,"bbox":[888,320,392,400]}
+{"kind":"shape","id":"sh/cr2tw7mh","slide":15,"name":"video-panel-3","bbox":[48,410,24,24]}
+{"kind":"textbox","id":"sh/xsba5c3m","slide":15,"name":"video-icon-3","text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[72,438,1208,282]}
+{"kind":"textbox","id":"sh/l87apsv6","slide":15,"name":"video-member-3","text":"成员 D","textPreview":"成员 D","textChars":4,"textLines":1,"bbox":[148,442,1132,278]}
+{"kind":"textbox","id":"sh/k7y9gnel","slide":15,"name":"video-topic-3","text":"聚类、图谱与前端","textPreview":"聚类、图谱与前端","textChars":8,"textLines":1,"bbox":[72,520,1208,200]}
+{"kind":"textbox","id":"sh/j6psn2d0","slide":15,"name":"video-note-3","text":"视频占位（mp4 · 800×600）","textPreview":"视频占位（mp4 · 800×600）","textChars":19,"textLines":1,"bbox":[72,570,1208,150]}
+{"kind":"shape","id":"sh/y5grexwf","slide":15,"name":"video-panel-4","bbox":[456,410,24,24]}
+{"kind":"textbox","id":"sh/x47alsvu","slide":15,"name":"video-icon-4","text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[480,438,800,282]}
+{"kind":"textbox","id":"sh/w3e9cne9","slide":15,"name":"video-member-4","text":"组长","textPreview":"组长","textChars":2,"textLines":1,"bbox":[556,442,724,278]}
+{"kind":"textbox","id":"sh/b25sjido","slide":15,"name":"video-topic-4","text":"总体演示与协作","textPreview":"总体演示与协作","textChars":7,"textLines":1,"bbox":[480,520,800,200]}
+{"kind":"textbox","id":"sh/ahwradwj","slide":15,"name":"video-note-4","text":"视频占位（mp4 · 800×600）","textPreview":"视频占位（mp4 · 800×600）","textChars":19,"textLines":1,"bbox":[480,570,800,150]}
+{"kind":"textbox","id":"sh/9gnqh8vy","slide":15,"name":"video-caption","text":"答辩前将五位成员的录屏分别替换到对应位置；视频外还准备了各模块演示脚本与踩坑讲解","textPreview":"答辩前将五位成员的录屏分别替换到对应位置；视频外还准备了各模块演示脚本与踩坑讲解","textChars":40,"textLines":1,"bbox":[48,660,1232,60]}
+{"kind":"textbox","id":"sh/ofe983ed","slide":15,"name":"footer-left","text":"自动化求职工具 · 短学期项目答辩","textPreview":"自动化求职工具 · 短学期项目答辩","textChars":17,"textLines":1,"bbox":[48,678,1232,42]}
+{"kind":"textbox","id":"sh/elc7i9cb","slide":15,"name":"footer-page","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1210,678,70,42]}
+{"kind":"notes","id":"nt/vbahni","slide":15,"text":"每位成员按角色演示自己的模块：数据搜集、清洗、管理、分析、可视化、Web 前端。"}

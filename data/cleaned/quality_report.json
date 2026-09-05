@@ -1,0 +1,17 @@
+{
+  "rows_before": 320,
+  "rows_after": 320,
+  "duplicates_removed": 0,
+  "missing_rate": {
+    "salary_min": 0.1219,
+    "salary_avg": 0.1219,
+    "description": 0.0,
+    "skills": 0.0
+  },
+  "education_distribution": {
+    "本科": 144,
+    "硕士": 97,
+    "大专": 46,
+    "不限": 33
+  }
+}
